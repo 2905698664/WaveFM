@@ -94,8 +94,3 @@ The learnable wavelet network performs adaptive wavelet decomposition to:
 - Suppress spectral redundancy
 - Enhance discriminative information
 
-## 📧 Contact
-
-For questions and suggestions, please contact:
-- Email: 231210100815@stu.haut.edu.cn
-- GitHub Issues: [WaveMF Issues](https://github.com/2905698664/WaveMF/issues)
